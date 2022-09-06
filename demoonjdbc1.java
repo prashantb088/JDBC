@@ -22,8 +22,8 @@ public class demoonjdbc1 {
         Statement st= con.createStatement();
         //execute statement
         ResultSet rs = st.executeQuery(query);
-        rs.next();
         //go to next element
+        rs.next();
         //process the result
         String emp ="Employee name is "+rs.getString("ename")+" and his/her working in"+rs.getString("edomain")+"with package"+rs.getString("esalary");
         System.out.println(emp);
