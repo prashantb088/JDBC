@@ -1,3 +1,9 @@
+/** Illustrating to ADD DATA TO DATABASE AND PRINT DATA OF ONE OR ALL EMPLOYEE USING DATA ACCESS OBJECT
+ *  By Prashant Bansal
+ *
+ */
+
+//Controller
 package com.slot2jdbc;
 import java.sql.*;
 
