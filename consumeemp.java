@@ -3,6 +3,7 @@
  *  By Prashant Bansal
  */
 
+//View
 package com.slot2jdbc;
 
 import java.util.Scanner;
