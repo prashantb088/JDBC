@@ -121,7 +121,7 @@ public class bankingmain {
 				
 				case 4->{
 					
-				    //Pin Change Method
+				        //Pin Change Method
 					System.out.println("Enter Your password");
 					String pwd = bs.next();
 					System.out.println("Enter New Password");
